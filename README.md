@@ -1,9 +1,8 @@
-<h1 align="center">Merhaba 👋, ben Armağan</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=armagan9&label=Profile%20views&color=0e75b6&style=flat" alt="armagan9" /> </p>
+https://media.istockphoto.com/id/629285904/tr/foto%C4%9Fraf/programming-code-abstract-technology-background-of-software-deve.jpg?s=1024x1024&w=is&k=20&c=x22E8igktk8u82ydFmbqaNwbze1W9W3WObIkh_GmC34=
+ <h1 align="center">Merhaba 👋, ben Armağan</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=armagan9&label=Profile%20views&color=0e75b6&style=flat" alt="armagan9" /> </p>
 
 
 - Şu anda **java üzerinde çalışıyorum**- Şu anda **java,c++**- 🔭 🌱 📫 Bana nasıl ulaşılır? **armagantopaltc@gmail.com**
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodigno.com%2Fgithub-nedir%2F&psig=AOvVaw0Zv5EjsQ_H-3OhUmFpReqY&ust=1708712765948000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPig553Jv4QDFQAAAAAdAAAAABAF
 
 
 
